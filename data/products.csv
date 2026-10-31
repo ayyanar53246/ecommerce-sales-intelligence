@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,unit_cost,current_stock,reorder_level
+101,Laptop,Electronics,55000,44000,8,10
+102,Mouse,Accessories,800,450,250,50
+103,Keyboard,Accessories,1500,900,120,30
+104,Headphones,Accessories,2200,1300,15,20
+105,Smartphone,Electronics,30000,24000,12,15
+106,Monitor,Electronics,12000,9000,35,10
+107,USB Cable,Accessories,300,120,500,100
+108,Webcam,Electronics,1800,1100,18,15
+109,Power Bank,Accessories,1600,950,70,25
+110,Tablet,Electronics,22000,17500,10,12

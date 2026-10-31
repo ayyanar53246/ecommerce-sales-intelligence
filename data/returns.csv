@@ -1,0 +1,41 @@
+order_id,product_id,return_reason
+ORD0362,110,Other
+ORD0074,105,Not as expected
+ORD0375,107,Other
+ORD0156,105,Wrong item
+ORD0105,108,Damaged
+ORD0395,110,Not as expected
+ORD0378,102,Damaged
+ORD0125,101,Not as expected
+ORD0069,107,Wrong item
+ORD0451,105,Not as expected
+ORD0010,105,Wrong item
+ORD0195,106,Not as expected
+ORD0407,103,Wrong item
+ORD0085,108,Wrong item
+ORD0372,106,Other
+ORD0389,105,Wrong item
+ORD0496,101,Other
+ORD0031,109,Wrong item
+ORD0317,103,Damaged
+ORD0409,103,Wrong item
+ORD0491,101,Damaged
+ORD0492,107,Damaged
+ORD0281,106,Wrong item
+ORD0357,110,Damaged
+ORD0077,109,Other
+ORD0462,101,Not as expected
+ORD0498,107,Wrong item
+ORD0212,104,Damaged
+ORD0102,101,Wrong item
+ORD0335,110,Other
+ORD0476,108,Wrong item
+ORD0337,102,Wrong item
+ORD0441,107,Damaged
+ORD0174,101,Other
+ORD0003,108,Not as expected
+ORD0334,107,Not as expected
+ORD0410,105,Damaged
+ORD0071,108,Wrong item
+ORD0210,103,Damaged
+ORD0064,110,Damaged
